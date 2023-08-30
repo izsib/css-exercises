@@ -1,0 +1,21 @@
+
+
+.oddp {
+	background-color: pink;
+	font-family: "verdana", "DejaVu Sans";
+	font-size: 13px;
+}
+
+#second {
+	color: blue;
+	font-size: 36px;
+}
+
+#third {
+	font-size: 24px;
+}
+
+#fourth {
+	background-color: green;
+	font-weight: bold;
+}
